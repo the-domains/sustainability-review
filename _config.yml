@@ -19,3 +19,6 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/RichardMawle'
     type: external
+  - name: LinkedIn
+    url: 'https://uk.linkedin.com/in/richardmawle'
+    type: external
