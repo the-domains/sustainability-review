@@ -6,9 +6,13 @@ color:
   saturation: 0.3305984800681472
   rhythmicContrast: 0.8998410883359611
   brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: ' Sustainability Review '
+navigation:
+  - name: CV
+    url: 'http://www.mawle.com'
+    type: external
