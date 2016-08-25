@@ -12,16 +12,3 @@ color:
     - '#6B574B'
     - '#160600'
 name: ' Sustainability Review '
-navigation:
-  - name: CV
-    url: 'http://www.mawle.com'
-    type: external
-  - name: Twitter
-    url: 'https://twitter.com/RichardMawle'
-    type: external
-  - name: LinkedIn
-    url: 'https://uk.linkedin.com/in/richardmawle'
-    type: external
-  - name: Work
-    url: 'http://people.uwe.ac.uk/Pages/person.aspx?accountname=CAMPUS%5Cr-mawle'
-    type: external
