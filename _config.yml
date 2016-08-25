@@ -16,3 +16,6 @@ navigation:
   - name: CV
     url: 'http://www.mawle.com'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/RichardMawle'
+    type: external
