@@ -22,3 +22,6 @@ navigation:
   - name: LinkedIn
     url: 'https://uk.linkedin.com/in/richardmawle'
     type: external
+  - name: Work
+    url: 'http://people.uwe.ac.uk/Pages/person.aspx?accountname=CAMPUS%5Cr-mawle'
+    type: external
